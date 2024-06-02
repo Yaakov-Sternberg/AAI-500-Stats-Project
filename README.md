@@ -6,19 +6,22 @@ Introduction
 
 The final project for this course will assess the development of an end-to-end statistical analysis. In Module 2, you were assigned to a group by your instructor. You and your teammate(s) have worked closely to find a dataset, cleaned and prepared it for analysis, performed EDA, and produced a model. You will then produce a final technical report discussing the results of your analysis and the validity of your model. It is required that you and your team use GitHub as a code hosting platform to manage version control and collaboration during this project. It is also necessary to create and add a README file to your GitHub repository. It is recommended that you follow the PEP 8Links to an external site. – Style Guide for your Python code in the final project.
 
+
 **Project Datasets**
 
 https://archive.ics.uci.edu/dataset/186/wine+quality 
 
 We will include the following sections in your report:
 Introduction
-Data Cleaning/Preparation
-Exploratory Data Analysis
-Model Selection
-Model Analysis
-Conclusion and Recommendations.
-Include an appendix with the output of your code from a technical notebook (i.e., Jupyter Notebook).
-For your video presentation:
+1. Data Cleaning/Preparation
+2. Exploratory Data Analysis
+3. Model Selection
+4. Model Analysis
+5. Conclusion and Recommendations.
+
+**Include an appendix with the output of your code from a technical notebook (i.e., Jupyter Notebook).**
+
+**For your video presentation:**
 
 Give an 8-10 minute presentation of your analysis aimed at a non-technical audience of business leaders.
 Each team member should participate in the presentation equally.
