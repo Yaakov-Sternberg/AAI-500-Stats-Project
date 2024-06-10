@@ -9,7 +9,9 @@ The final project for this course will assess the development of an end-to-end s
 
 **Project Datasets and Notion for Code collabration**
 
-https://archive.ics.uci.edu/dataset/186/wine+quality 
+https://archive.ics.uci.edu/dataset/186/wine+quality
+
+
 https://www.notion.so/AAI-500-c0e50f7cb7874fa6a5a034574bd08869 
 
 We will include the following sections in your report:
