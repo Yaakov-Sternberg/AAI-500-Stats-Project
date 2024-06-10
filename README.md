@@ -1,7 +1,7 @@
 # AAI-500-Stats-Project
 
 Final Team Project 
-Due Jun 24 by 11:59pm Points 180 Submitting a text entry box, a website url, a media recording, or a file upload Attempts 0 Allowed Attempts 3
+Due Jun 24 by 11:59pm Points 180 Submitting a text entry box, a website url, a media recording, or a file upload.
 Introduction
 
 **Team**
@@ -10,7 +10,11 @@ Introduction
 2. Yaakov Sternberg
 3. Samnang So
 
-The final project for this course will assess the development of an end-to-end statistical analysis. In Module 2, you were assigned to a group by your instructor. You and your teammate(s) have worked closely to find a dataset, cleaned and prepared it for analysis, performed EDA, and produced a model. You will then produce a final technical report discussing the results of your analysis and the validity of your model. It is required that you and your team use GitHub as a code hosting platform to manage version control and collaboration during this project. It is also necessary to create and add a README file to your GitHub repository. It is recommended that you follow the PEP 8Links to an external site. – Style Guide for your Python code in the final project.
+The final project for this course will assess the development of an end-to-end statistical analysis. In Module 2, you were assigned to a group by your instructor. You and your teammate(s) have worked closely to find a dataset, cleaned and prepared it for analysis, performed EDA, and produced a model. 
+
+**Objective**
+
+You will  produce a final** technical report** discussing the results of your analysis and the validity of your model. It is required that you and your team use GitHub as a code hosting platform to manage version control and collaboration during this project. It is also necessary to create and add a README file to your GitHub repository. It is recommended that you follow the PEP 8Links to an external site. – Style Guide for your Python code in the final project.
 
 
 **Project Datasets and Notion for Code collabration**
