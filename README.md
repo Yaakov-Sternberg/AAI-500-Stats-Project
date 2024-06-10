@@ -6,7 +6,7 @@ Introduction
 
 **Team**
 
-1. DHEEMANTH RAJAKUMAR
+1. Dheemanth Rajakumar
 2. Yaakov Sternberg
 3. Samnang So
 
